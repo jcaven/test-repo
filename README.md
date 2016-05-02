@@ -1,4 +1,6 @@
 # test-repo
+### Dada is awesome
+dada is great because he is our dada. :)
 echo "# test-repo" >> README.md
 git init
 git add README.md
